@@ -12,6 +12,6 @@ Import media files into iTunes with lyrics embedded (with LyricsX).
 
 ## How to use
 
-Open `Automator.app`, open `src.applescript`, and click `Run` button.
+Run `Automator.app`, open `src.applescript`, and click `Run` button.
 
 > ⚠️Warning: `Automator.app` should be granted as an Accessibility Controller to ensure this script run normally.
