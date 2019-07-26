@@ -8,7 +8,7 @@ Import media files into iTunes with lyrics embedded (with LyricsX).
 
 * iTunes 12.9.5.5
 
-* LyricsX App Store Version 1.5.0 (`2138`)
+* [LyricsX](https://github.com/ddddxxx/LyricsX) App Store Version 1.5.0 (`2138`)
 
 ## How to use
 
