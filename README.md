@@ -1,6 +1,6 @@
 # iTunes-lyricsX-SyncScript
 
-Import media files into iTunes with lyrics embedded (with LyricsX).
+Automatically import media files into iTunes with lyrics embedded (with LyricsX).
 
 ## Example
 
