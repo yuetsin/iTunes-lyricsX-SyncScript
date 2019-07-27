@@ -2,11 +2,19 @@
 
 Import media files into iTunes with lyrics embedded (with LyricsX).
 
-## Environment
+## Testing Environment
 
 * macOS Mojave 10.14.6 (`18G84`)
 
 * iTunes 12.9.5.5
+
+* [LyricsX](https://github.com/ddddxxx/LyricsX) App Store Version 1.5.0 (`2138`)
+
+---
+
+* macOS Sierra 10.12.6 (`16G2127`)
+
+* iTunes 12.8.2.3
 
 * [LyricsX](https://github.com/ddddxxx/LyricsX) App Store Version 1.5.0 (`2138`)
 
