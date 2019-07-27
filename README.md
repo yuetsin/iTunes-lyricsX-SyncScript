@@ -2,6 +2,10 @@
 
 Import media files into iTunes with lyrics embedded (with LyricsX).
 
+## Example
+
+![Animated GIF](https://github.com/yuetsin/iTunes-lyricsX-SyncScript/blob/master/samples.gif?raw=true)
+
 ## Testing Environment
 
 * macOS Mojave 10.14.6 (`18G84`)
@@ -20,6 +24,6 @@ Import media files into iTunes with lyrics embedded (with LyricsX).
 
 ## How to use
 
-Run `Automator.app`, open `src.applescript`, and click `Run` button.
+Run `Script Editor.app`, open `src.applescript`, and click `Run` button.
 
-> ⚠️Warning: `Automator.app` should be granted as an Accessibility Controller to ensure this script run normally.
+> ⚠️Warning: `Script Editor.app` should be granted as an Accessibility Controller to ensure this script run normally.
