@@ -23,7 +23,7 @@ Run `Script Editor.app`, open `src.applescript`, and click `Run` button.
 
 ## Testing Environment
 
-* macOS Mojave 10.5.4 (`18G84`)
+* macOS Catalina 10.15.4 (`19E266`)
 
 * Apple Music 1.0.4.104
 
